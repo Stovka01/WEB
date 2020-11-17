@@ -18,7 +18,7 @@
 <mpn>150</mpn>
 <ean>111111222222233333444</ean>
 <instock>Y</instock>
-<weight>200</weight>
+<weight>0,200</weight>
 </product>
 <product>
 <id>5998144979111</id>
@@ -37,7 +37,7 @@
 <mpn>150</mpn>
 <ean>111111222222233333444</ean>
 <instock>Y</instock>
-<weight>200</weight>
+<weight>0,200</weight>
 </product>
 </products>
 </mywebstore>
