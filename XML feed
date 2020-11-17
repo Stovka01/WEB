@@ -1,0 +1,43 @@
+<mywebstore>
+<created_at>2020-11-17 02:59</created_at>
+<products>
+<product>
+<id>5996661702823</id>
+<name>IPL Epilator - IPLove.</name>
+<link>https://iplove-epilator.myshopify.com/products/ipl-epilator-iplove</link>
+<image>https://cdn.shopify.com/s/files/1/0503/9289/1559/products/bezpozadi_1_2_1_1.png?v=1604603478</image>
+<additional_imageurl>https://cdn.shopify.com/s/files/1/0503/9289/1559/products/Navrhbeznazvu_19.png?v=1604603478</additional_imageurl>
+<CATEGORY>
+<CATEGORY_ID>1490</CATEGORY_ID>
+<CATEGORY_NAME>Epilátory a depilátory</CATEGORY_NAME>
+<CATEGORY_FULLNAME>Heureka.cz | Bílé zboží | Malé spotřebiče | Péče o tělo | Epilátory a depilátory</CATEGORY_FULLNAME>
+</CATEGORY>
+<price_with_vat>3690.00</price_with_vat>
+<manufacturer>IPlove</manufacturer>
+<availability>7-14</availability>
+<mpn>150</mpn>
+<ean>111111222222233333444</ean>
+<instock>Y</instock>
+<weight>200</weight>
+</product>
+<product>
+<id>5998144979111</id>
+<name>IPL Epilator - IPLove.</name>
+<link>https://iplove-epilator.myshopify.com/products/copy-of-ipl-epilator-iplove</link>
+<image>https://cdn.shopify.com/s/files/1/0503/9289/1559/products/bezpozadi_1_2_1_1_cf506465-e562-4066-9373-a77c39402d60.png?v=1604603626</image>
+<additional_imageurl>https://cdn.shopify.com/s/files/1/0503/9289/1559/products/Navrhbeznazvu_19_ee8a0c5a-2b2a-4140-b778-7162e742444f.png?v=1604603626</additional_imageurl>
+<CATEGORY>
+<CATEGORY_ID>1490</CATEGORY_ID>
+<CATEGORY_NAME>Epilátory a depilátory</CATEGORY_NAME>
+<CATEGORY_FULLNAME>Heureka.cz | Bílé zboží | Malé spotřebiče | Péče o tělo | Epilátory a depilátory</CATEGORY_FULLNAME>
+</CATEGORY>
+<price_with_vat>3690.00</price_with_vat>
+<manufacturer>IPlove</manufacturer>
+<availability>7-14</availability>
+<mpn>150</mpn>
+<ean>111111222222233333444</ean>
+<instock>Y</instock>
+<weight>200</weight>
+</product>
+</products>
+</mywebstore>
